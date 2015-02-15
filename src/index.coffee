@@ -9,8 +9,8 @@ require './common/utils/index'
 angular
   .module('application', [
     'templates'
-    # 'ngAnimate'
-    # 'ngResource'
+    'ngAnimate'
+    'ngResource'
     'lodash'
     'ui.router'
     
